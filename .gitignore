@@ -1,3 +1,5 @@
 /node_modules
 /config
+/config/keys.js
+keys.js
 package-lock.json
